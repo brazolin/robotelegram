@@ -1,6 +1,6 @@
 import telebot
 
-token = '5674855350:AAHhTN_q426fEvO8I8PxywlNRBT3MamLj_c'
+token = 'Your_Token_here_seu_token'
 
 bot = telebot.TeleBot(token)
 
